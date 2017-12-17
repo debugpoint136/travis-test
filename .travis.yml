@@ -1,5 +1,7 @@
 language: javascript
 
+install:
+  - npm install react-scripts
 script:
  - npm run test
 
